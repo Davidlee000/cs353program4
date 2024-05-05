@@ -33,3 +33,5 @@ Comment:
 I have never played a text based adventure game before.
 
 Example game play:
+![image](https://github.com/Davidlee000/cs353program4/assets/88510494/0b1c0bc7-2385-43a7-90ac-433a057befd7)
+
